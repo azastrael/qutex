@@ -1,5 +1,7 @@
 [package]
-name = "qutex"
+# TODO: https://github.com/cogciprocate/qutex/pull/5
+# TODO: https://github.com/cogciprocate/qutex/pull/6
+name = "bastion-qutex"
 version = "0.2.4"
 authors = ["Nick Sanders <cogciprocate@gmail.com>"]
 license = "MIT"
